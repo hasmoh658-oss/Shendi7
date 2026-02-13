@@ -1,0 +1,8 @@
+{
+  "name": "SU Salon - Arabic Mobile App Architecture",
+  "description": "A comprehensive mobile-first architectural prototype for a salon application featuring RTL support, gender-segregated expert filtering, and a professional Arabic UI in Material Design 3 style.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
